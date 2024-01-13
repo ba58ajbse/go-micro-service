@@ -1,2 +1,7 @@
 /project/db-data/mongo
 /project/db-data/postgres
+
+frontApp
+authApp
+brokerApp
+loggerServiceApp
