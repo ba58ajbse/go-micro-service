@@ -1,5 +1,6 @@
 /project/db-data/mongo
 /project/db-data/postgres
+/project/db-data/rabbitmq
 
 frontApp
 authApp
